@@ -1,0 +1,10 @@
+﻿name,sample,time
+GSM3307252,A1, Cold treatment 0 hour rep1
+GSM3307253,A2, Cold treatment 0 hour rep2
+GSM3307254,A3, Cold treatment 0 hour rep3
+GSM3307255,B1, Cold treatment 1 hour rep1
+GSM3307256,B2, Cold treatment 1 hour rep2
+GSM3307257,B3, Cold treatment 1 hour rep3
+GSM3307258,C1, Cold treatment 24 hour rep1
+GSM3307259,C2, Cold treatment 24 hour rep2
+GSM3307260,C3, Cold treatment 24 hour rep3

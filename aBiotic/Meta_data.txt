@@ -1,0 +1,13 @@
+ID	Condition
+GSM5643695	Control soybean bud replicate 1
+GSM5643696	Control soybean bud replicate 2
+GSM5643697	Control soybean bud replicate 3
+GSM5643698	Water deficit soybean bud replicate 1
+GSM5643699	Water deficit soybean bud replicate 2
+GSM5643700	Water deficit soybean bud replicate 3
+GSM5643701	Heat stress soybean bud replicate 1
+GSM5643702	Heat stress soybean bud replicate 2
+GSM5643703	Heat stress soybean bud replicate 3
+GSM5643704	Combined water deficit and heat stress replicate 1
+GSM5643705	Combined water deficit and heat stress replicate 2
+GSM5643706	Combined water deficit and heat stress replicate 3

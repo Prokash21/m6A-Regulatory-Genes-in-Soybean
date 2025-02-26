@@ -1,0 +1,17 @@
+Sample Name	source_name	SRA Study	Time_point
+GSM1426228	G. Max 5th trifiolate leaf	SRP044048	1
+GSM1426229	G. Max 5th trifiolate leaf	SRP044048	1
+GSM1426230	G. Max 5th trifiolate leaf	SRP044048	1
+GSM1426231	G. Max 5th trifiolate leaf	SRP044048	1
+GSM1426232	G. Max 5th trifiolate leaf	SRP044048	2
+GSM1426233	G. Max 5th trifiolate leaf	SRP044048	2
+GSM1426234	G. Max 5th trifiolate leaf	SRP044048	2
+GSM1426235	G. Max 5th trifiolate leaf	SRP044048	2
+GSM1426236	G. Max 5th trifiolate leaf	SRP044048	3
+GSM1426237	G. Max 5th trifiolate leaf	SRP044048	3
+GSM1426238	G. Max 5th trifiolate leaf	SRP044048	3
+GSM1426239	G. Max 5th trifiolate leaf	SRP044048	3
+GSM1426240	G. Max 5th trifiolate leaf	SRP044048	4
+GSM1426241	G. Max 5th trifiolate leaf	SRP044048	4
+GSM1426242	G. Max 5th trifiolate leaf	SRP044048	4
+GSM1426243	G. Max 5th trifiolate leaf	SRP044048	4

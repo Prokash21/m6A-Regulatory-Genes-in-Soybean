@@ -1,0 +1,13 @@
+	
+GSM4659041	CT49_Ch_control (CT)
+GSM4659042	CT50_Ch_control (CT)
+GSM4659043	CT51_Ch_control (CT)
+GSM4659044	WD52_Ch_Water deficit (WD)
+GSM4659045	WD53_Ch_Water deficit (WD)
+GSM4659046	WD54_Ch_Water deficit (WD)
+GSM4659047	HS55_Ch_Heat (HS)
+GSM4659048	HS56_Ch_Heat (HS)
+GSM4659049	HS57_Ch_Heat (HS)
+GSM4659050	CS58_Ch_Combined stress (CS)
+GSM4659051	CS59_Ch_Combined stress (CS)
+GSM4659052	CS60_Ch_Combined stress (CS)
