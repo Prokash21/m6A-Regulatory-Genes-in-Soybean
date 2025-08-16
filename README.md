@@ -1,7 +1,7 @@
-# Genome-wide identification and characterization of m6A regulatory genes in soybean
+# Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses
 
 <p align="center">
-  <img src="plos-one-logo.png" alt="PLOS ONE Logo" width="220"/>
+  <img src="Figure\readme\plos-one-logo.png" alt="PLOS ONE Logo" width="220"/>
 </p>
 
 > **Tagline:** A comprehensive atlas of soybean m6A writers, erasers, and readers with evolution, duplication, networks, miRNA targeting, and stress-expression insights.
@@ -32,15 +32,18 @@ This framework provides new insight into the **molecular basis of m6A regulation
 
 ---
 
-📜 Citation
+---
+
+## 📜 Citation
 
 If you use this repository, please cite our article:
 
-Genome-wide identification and characterization of m6A regulatory genes in soybean
-PLOS ONE (2025) – DOI: 10.1371/journal.pone.0328773
+**Genome-wide identification and characterization of m6A regulatory genes in soybean: Insights into evolution, miRNA interactions, and stress responses**  
+*PLOS ONE (2025)* – [DOI: 10.1371/journal.pone.0328773](https://doi.org/10.1371/journal.pone.0328773)
 
+```bibtex
 @article{soybean_m6A_plosone,
-  title   = {Genome-wide identification and characterization of m6A regulatory genes in soybean},
+  title   = {Genome-wide identification and characterization of m6A regulatory genes in soybean: Insights into evolution, miRNA interactions, and stress responses},
   journal = {PLOS ONE},
   year    = {2025},
   doi     = {10.1371/journal.pone.0328773}
