@@ -32,4 +32,17 @@ This framework provides new insight into the **molecular basis of m6A regulation
 
 ---
 
-## 📂 Repository Structure
+📜 Citation
+
+If you use this repository, please cite our article:
+
+Genome-wide identification and characterization of m6A regulatory genes in soybean
+PLOS ONE (2025) – DOI: 10.1371/journal.pone.0328773
+
+@article{soybean_m6A_plosone,
+  title   = {Genome-wide identification and characterization of m6A regulatory genes in soybean},
+  journal = {PLOS ONE},
+  year    = {2025},
+  doi     = {10.1371/journal.pone.0328773}
+}
+
